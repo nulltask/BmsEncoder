@@ -767,14 +767,7 @@ namespace Cage
 		}
 		#endregion
 
-		/// <summary>
-		/// アプリケーションのメイン エントリ ポイントです。
-		/// </summary>
-		[STAThread]
-		static void Main() 
-		{
-			Application.Run(new FormMain());
-		}
+
 
 		#endregion
 		#region DLLImport
